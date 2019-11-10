@@ -34,5 +34,5 @@ def total_even_pairs(src)
   array_3 = [[86262, 58115], [22558, 97709], [66236, 28056], [25992, 81375], [11248, 56789], [42783, 27353], [70796, 63432], [53234, 63058], [72316, 8675309]]
   
   even_pair = src[0]inner_element.even + src[1]inner_element.even 
-  src[0]+src[1]
+  
 end
